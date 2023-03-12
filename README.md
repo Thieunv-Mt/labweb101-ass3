@@ -1,9 +1,11 @@
 
 ```
-Assignment 02 Stater
+Assignment 03 Stater
 ├─ css
 │  ├─ font.css
-│  └─ style.css
+│  ├─ laptop.css
+│  ├─ tablet.css
+│  └─ mobile.css    
 ├─ fonts
 │  ├─ OpenSans-Italic-webfont.eot
 │  ├─ OpenSans-Italic-webfont.svg
@@ -38,11 +40,13 @@ Assignment 02 Stater
 │  ├─ Cert_PRF.png
 │  ├─ Cert_WEB.png
 │  ├─ banner.jpg
+│  ├─ my-avatar.jpg
 │  ├─ default-avatar.webp
 │  ├─ funix-icon.png
 │  ├─ project_1.png
 │  ├─ project_2.png
 │  └─ project_3.png
+├─ digital-cv.html
 └─ index.html
 
 ```
